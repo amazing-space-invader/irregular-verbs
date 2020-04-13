@@ -7,12 +7,10 @@ const Head = () => {
     <div>
       <Row
         head
-        data={{
-          infinitive: 'infinitive',
-          simple: 'simple past',
-          participle: 'past participle',
-          translation: 'перевод',
-        }}
+        infinitive="infinitive"
+        simple="simple past"
+        participle="past participle"
+        translation="перевод"
       />
     </div>
   );

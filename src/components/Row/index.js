@@ -3,8 +3,7 @@ import React from 'react';
 import { StyledRow, StyledColumn } from './styled';
 
 const Row = (props) => {
-  const { data, head = false } = props;
-  const { infinitive, simple, participle, translation } = data;
+  const { infinitive, simple, participle, translation, head = false } = props;
 
   return (
     <StyledRow>

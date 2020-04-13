@@ -1,14 +1,302 @@
 [
   {
-    "infinitive": "arise",
-    "simple": "arose",
-    "participle": "arisen",
-    "translation": "возникать"
-  },
-  {
     "infinitive": "be",
     "simple": "was/were",
     "participle": "been",
-    "translation": "быть, являться"
+    "translation": "быть"
+  },
+  {
+    "infinitive": "become",
+    "simple": "became",
+    "participle": "become",
+    "translation": "становиться"
+  },
+  {
+    "infinitive": "begin",
+    "simple": "began",
+    "participle": "begun",
+    "translation": "начинать"
+  },
+  {
+    "infinitive": "break",
+    "simple": "broke",
+    "participle": "broken",
+    "translation": "ломать"
+  },
+  {
+    "infinitive": "bring",
+    "simple": "brought",
+    "participle": "brought",
+    "translation": "приносить"
+  },
+  {
+    "infinitive": "build",
+    "simple": "built",
+    "participle": "built",
+    "translation": "строить"
+  },
+  {
+    "infinitive": "buy",
+    "simple": "bought",
+    "participle": "bought",
+    "translation": "покупать"
+  },
+  {
+    "infinitive": "choose",
+    "simple": "chose",
+    "participle": "chosen",
+    "translation": "выбирать"
+  },
+  {
+    "infinitive": "come",
+    "simple": "came",
+    "participle": "come",
+    "translation": "приходить"
+  },
+  {
+    "infinitive": "do",
+    "simple": "did",
+    "participle": "done",
+    "translation": "делать"
+  },
+  {
+    "infinitive": "drive",
+    "simple": "drove",
+    "participle": "driven",
+    "translation": "водить, вести"
+  },
+  {
+    "infinitive": "fall",
+    "simple": "fell",
+    "participle": "fallen",
+    "translation": "падать"
+  },
+  {
+    "infinitive": "feel",
+    "simple": "felt",
+    "participle": "felt",
+    "translation": "чувствовать"
+  },
+  {
+    "infinitive": "find",
+    "simple": "found",
+    "participle": "found",
+    "translation": "находить"
+  },
+  {
+    "infinitive": "get",
+    "simple": "got",
+    "participle": "got",
+    "translation": "получать"
+  },
+  {
+    "infinitive": "give",
+    "simple": "gave",
+    "participle": "given",
+    "translation": "давать"
+  },
+  {
+    "infinitive": "go",
+    "simple": "went",
+    "participle": "gone",
+    "translation": "идти, ехать"
+  },
+  {
+    "infinitive": "grow",
+    "simple": "grew",
+    "participle": "grown",
+    "translation": "расти"
+  },
+  {
+    "infinitive": "have",
+    "simple": "had",
+    "participle": "had",
+    "translation": "иметь"
+  },
+  {
+    "infinitive": "hear",
+    "simple": "heard",
+    "participle": "heard",
+    "translation": "иметь"
+  },
+  {
+    "infinitive": "hold",
+    "simple": "held",
+    "participle": "held",
+    "translation": "держать"
+  },
+  {
+    "infinitive": "keep",
+    "simple": "kept",
+    "participle": "kept",
+    "translation": "хранить, держать"
+  },
+  {
+    "infinitive": "know",
+    "simple": "knew",
+    "participle": "known",
+    "translation": "знать"
+  },
+  {
+    "infinitive": "lead",
+    "simple": "led",
+    "participle": "led",
+    "translation": "вести"
+  },
+  {
+    "infinitive": "leave",
+    "simple": "left",
+    "participle": "left",
+    "translation": "покидать, оставлять"
+  },
+  {
+    "infinitive": "let",
+    "simple": "let",
+    "participle": "let",
+    "translation": "позволять"
+  },
+  {
+    "infinitive": "lie",
+    "simple": "lay",
+    "participle": "lain",
+    "translation": "лежать"
+  },
+  {
+    "infinitive": "lose",
+    "simple": "lost",
+    "participle": "lost",
+    "translation": "терять"
+  },
+  {
+    "infinitive": "make",
+    "simple": "made",
+    "participle": "made",
+    "translation": "делать"
+  },
+  {
+    "infinitive": "mean",
+    "simple": "meant",
+    "participle": "meant",
+    "translation": "значить"
+  },
+  {
+    "infinitive": "meet",
+    "simple": "met",
+    "participle": "met",
+    "translation": "встречать, знакомиться"
+  },
+  {
+    "infinitive": "pay",
+    "simple": "paid",
+    "participle": "paid",
+    "translation": "платить"
+  },
+  {
+    "infinitive": "put",
+    "simple": "put",
+    "participle": "put",
+    "translation": "класть, ставить"
+  },
+  {
+    "infinitive": "read",
+    "simple": "read",
+    "participle": "read",
+    "translation": "читать"
+  },
+  {
+    "infinitive": "run",
+    "simple": "ran",
+    "participle": "run",
+    "translation": "бежать"
+  },
+  {
+    "infinitive": "say",
+    "simple": "said",
+    "participle": "said",
+    "translation": "говорить"
+  },
+  {
+    "infinitive": "see",
+    "simple": "saw",
+    "participle": "seen",
+    "translation": "видеть"
+  },
+  {
+    "infinitive": "send",
+    "simple": "sent",
+    "participle": "sent",
+    "translation": "посылать"
+  },
+  {
+    "infinitive": "set",
+    "simple": "set",
+    "participle": "set",
+    "translation": "устанавливать"
+  },
+  {
+    "infinitive": "show",
+    "simple": "showed",
+    "participle": "shown/showed",
+    "translation": "показывать"
+  },
+  {
+    "infinitive": "sit",
+    "simple": "sat",
+    "participle": "sat",
+    "translation": "сидеть"
+  },
+  {
+    "infinitive": "speak",
+    "simple": "spoke",
+    "participle": "spoken",
+    "translation": "говорить"
+  },
+  {
+    "infinitive": "spend",
+    "simple": "spent",
+    "participle": "spent",
+    "translation": "тратить"
+  },
+  {
+    "infinitive": "stand",
+    "simple": "stood",
+    "participle": "stood",
+    "translation": "стоять"
+  },
+  {
+    "infinitive": "take",
+    "simple": "took",
+    "participle": "taken",
+    "translation": "брать"
+  },
+  {
+    "infinitive": "tell",
+    "simple": "told",
+    "participle": "told",
+    "translation": "говорить, рассказывать"
+  },
+  {
+    "infinitive": "think",
+    "simple": "thought",
+    "participle": "thought",
+    "translation": "думать"
+  },
+  {
+    "infinitive": "understand",
+    "simple": "understood",
+    "participle": "understood",
+    "translation": "понимать"
+  },
+  {
+    "infinitive": "wear",
+    "simple": "wore",
+    "participle": "worn",
+    "translation": "носить"
+  },
+  {
+    "infinitive": "write",
+    "simple": "wrote",
+    "participle": "written",
+    "translation": "писать"
   }
 ]

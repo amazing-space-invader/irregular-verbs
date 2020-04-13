@@ -5,12 +5,14 @@ import { Table } from '../Table';
 
 import { StyledWrapper, GlobalStyle } from './styled';
 
-const App = () => {
+const App = (props) => {
+  const { verbs } = props;
+
   return (
     <StyledWrapper>
       <GlobalStyle />
       <Title />
-      <Table />
+      <Table verbs={verbs} />
     </StyledWrapper>
   );
 };

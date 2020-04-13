@@ -6,11 +6,16 @@ import { Row } from '../Row';
 
 import { StyledTable } from './styled';
 
-const Table = () => {
+const Table = (props) => {
+  const { verbs } = props;
+
   return (
     <StyledTable>
       <Head />
-      <Section>
+      {verbs.map((verb, index) => (
+        <Row key={verb.infinitive || index} {...verb} />
+      ))}
+      {/* <Section>
         <Row
           data={{
             infinitive: 'arise',
@@ -29,7 +34,7 @@ const Table = () => {
             translation: 'приходить',
           }}
         />
-      </Section>
+      </Section> */}
     </StyledTable>
   );
 };
