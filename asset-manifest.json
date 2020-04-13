@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/irregular-verbs/static/js/main.de3c743e.chunk.js",
+    "main.js.map": "/irregular-verbs/static/js/main.de3c743e.chunk.js.map",
+    "runtime-main.js": "/irregular-verbs/static/js/runtime-main.f55580bd.js",
+    "runtime-main.js.map": "/irregular-verbs/static/js/runtime-main.f55580bd.js.map",
+    "static/js/2.d0cf7c2f.chunk.js": "/irregular-verbs/static/js/2.d0cf7c2f.chunk.js",
+    "static/js/2.d0cf7c2f.chunk.js.map": "/irregular-verbs/static/js/2.d0cf7c2f.chunk.js.map",
+    "index.html": "/irregular-verbs/index.html",
+    "precache-manifest.054b3e89d507de5ce48e02c794f1ee08.js": "/irregular-verbs/precache-manifest.054b3e89d507de5ce48e02c794f1ee08.js",
+    "service-worker.js": "/irregular-verbs/service-worker.js",
+    "static/js/2.d0cf7c2f.chunk.js.LICENSE.txt": "/irregular-verbs/static/js/2.d0cf7c2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f55580bd.js",
+    "static/js/2.d0cf7c2f.chunk.js",
+    "static/js/main.de3c743e.chunk.js"
+  ]
+}
