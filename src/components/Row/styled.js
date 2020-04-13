@@ -12,4 +12,6 @@ export const StyledColumn = styled.div`
   flex-basis: 0;
   flex-grow: 1;
   flex-shrink: 0;
+  ${(props) => props.head && 'font-size: 0.75em;'}
+  ${(props) => props.head && 'color: #a3a3a3;'}
 `;

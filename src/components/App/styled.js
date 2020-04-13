@@ -5,6 +5,7 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Helvetica';
     font-size: 24px;
     color: #000;
+    font-weight: 400;
   }
 `;
 
